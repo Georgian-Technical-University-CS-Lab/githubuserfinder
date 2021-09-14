@@ -5,3 +5,6 @@
 * HTML
 * CSS
 * JS
+<hr>
+
+[See demo](https://wikicrafter.github.io/githubuserfinder/)
