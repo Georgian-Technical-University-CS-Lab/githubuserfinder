@@ -1,1 +1,1 @@
-# githubuserfinder
+# Github user finder
