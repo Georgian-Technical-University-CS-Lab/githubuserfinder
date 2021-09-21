@@ -7,4 +7,4 @@
 * JS
 <hr>
 
-[See demo](https://wikicrafter.github.io/githubuserfinder/)
+[See demo](https://georgian-technical-university-cs-lab.github.io/githubuserfinder/)
